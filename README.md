@@ -71,11 +71,13 @@ Email: samantha.rose327@gmail.com
 <li><a href="https://nodejs.org/en/">Node.js</a></li>
 <li><a href="https://www.mysql.com/">MySQL</a></li>
 <li><a href="https://sequelize.org/">Sequelize</a></li>
+<li><a href="https://insomnia.rest/download">Insomnia</a></li>
 <li><a href="https://www.npmjs.com/package/express">NPM - express</a></li>
 
 #### Documentation Used:
 <li><a href="https://github.com/coding-boot-camp/fantastic-umbrella/tree/main/Develop">Starter Code</a></li>
 <li><a href="https://sequelize.org/docs/v6/category/core-concepts/">Sequelize.org Docs</a></li>
+<li><a href="https://docs.insomnia.rest/insomnia/get-started">Introduction to Insomnia</a></li>
 
 ## License
 
