@@ -15,7 +15,7 @@ This is the back end for an e-commerce site, equipped with a fully functional Ex
 
 ## Installation
 
-In order to use the E-commerce-Back-End Application, it is necessary to have a code editor, such as Visual Studio Code (VSCode). In addition, you must have Node.js and MySQL installed on your system.
+In order to use the E-commerce-Back-End Application, it is necessary to have a code editor, such as Visual Studio Code (VSCode).
 
 1. Begin by installing Node.js and MySQL on your computer's terminal/command-line. For detailed installation instructions, vist <a href="https://nodejs.org/en/">Node.js.org</a> and <a href="https://dev.mysql.com/downloads/mysql/">MySQL Community Downloads</a>  
 
