@@ -17,7 +17,7 @@ This is the back end for an e-commerce site, equipped with a fully functional Ex
 
 In order to use the E-commerce-Back-End Application, it is necessary to have a code editor, such as Visual Studio Code (VSCode).
 
-1. Begin by installing Node.js and MySQL on your computer's terminal/command-line. For detailed installation instructions, vist <a href="https://nodejs.org/en/">Node.js.org</a> and <a href="https://dev.mysql.com/downloads/mysql/">MySQL Community Downloads</a>  
+1. Begin by installing Node.js and MySQL on your computer's terminal/command-line. For detailed installation instructions, visit <a href="https://nodejs.org/en/">Node.js.org</a> and <a href="https://dev.mysql.com/downloads/mysql/">MySQL Community Downloads</a>  
 
 2. Initiate the cloning process from the GitHub repository by selecting "Code." Copy the SSH link then execute the `git clone <paste SSH link>` command in your terminal/command-line. Next, open the cloned project in your preferred code editor.
 
@@ -28,7 +28,7 @@ In order to use the E-commerce-Back-End Application, it is necessary to have a c
 `DB_USER='your_mysql_username'`<br>
 `DB_PASSWORD='your_mysql_password'`
 
-5. To create and seed the development datatbase, run the followings commands in order:<br>
+5. To create and seed the development database, run the following commands in order:<br>
 `node server.js`<br>
 `node seeds/index.js`<br>
 `nodemon server.js`
