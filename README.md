@@ -47,7 +47,17 @@ The following steps outline the usage of the E-commerce-Back-End Application. Co
 - Utilize <a href="https://insomnia.rest/download">Insomnia</a> to test API POST, PUT, and DELETE routes.
 - Successfully create, update, and delete data in the connected MySQL database.
 
-add demo video here
+**Tag GET/POST/PUT/DELETE demo**
+  
+https://github.com/samanthashleyrose/E-commerce-Back-End/assets/142939966/844aeece-f942-4796-9f8e-ccba2f2133aa
+
+**Product GET/POST/PUT/DELETE demo**
+
+https://github.com/samanthashleyrose/E-commerce-Back-End/assets/142939966/4444eda1-5c16-43f2-9ced-b0f72902d123
+
+**Category GET/POST/PUT/DELETE demo**
+
+https://github.com/samanthashleyrose/E-commerce-Back-End/assets/142939966/1eb83e63-77b7-4b59-bd62-e97ee491361f
 
 ## How to Contribute
 
