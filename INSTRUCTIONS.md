@@ -7,8 +7,6 @@ Your challenge is to build the back end for an e-commerce site. You’ll take a 
 
 Because this application won’t be deployed, you’ll also need to create a walkthrough video that demonstrates its functionality and all of the following acceptance criteria being met. You’ll need to submit a link to the video and add it to the README of your project.
 
-Refer to the Video Submission Guide on the Full-Stack Blog for additional guidance on creating a video.
-
 **IMPORTANT**<br>
 Make sure to clone the starter code repository and make your own repository with the starter code. Do not fork the starter code repository!
 
